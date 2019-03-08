@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1047544191818",
+    "firebase_url": "https://hotel-71982.firebaseio.com",
+    "project_id": "hotel-71982",
+    "storage_bucket": "hotel-71982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047544191818:android:b8093ddc4998147d",
+        "android_client_info": {
+          "package_name": "com.example.ruchit.punjabdadhaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047544191818-pleaavi2aqbq23qskoov9fgklsefut72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoSq5X6QfaFTKS6siguz_1yUMPDcCLK1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

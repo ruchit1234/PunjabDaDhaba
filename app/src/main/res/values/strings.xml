@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PunjabDaDhaba</string>
+    <string name="cat_prompt">Select A Category</string>
+    <string-array name="item_arrays">
+        <item>Roti</item>
+        <item>Paratha</item>
+        <item>Dal</item>
+        <item>Rice</item>
+        <item>Milk</item>
+        <item>Salad</item>
+        <item>Papad</item>
+        <item>Lassi</item>
+        <item>Main Course</item>
+    </string-array>
+    <string-array name="filter_titles">
+        <item>All Items</item>
+        <item>Roti</item>
+        <item>Paratha</item>
+        <item>Dal</item>
+        <item>Rice</item>
+        <item>Milk</item>
+        <item>Salad</item>
+        <item>Papad</item>
+        <item>Lassi</item>
+        <item>Main Course</item>
+    </string-array>
+
+</resources>
